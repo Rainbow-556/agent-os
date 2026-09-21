@@ -1,0 +1,12 @@
+{
+  "files.eol": "\n",
+  "editor.wordWrapColumn": 120,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.triggerExpansionOnTab": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
